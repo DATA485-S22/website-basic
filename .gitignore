@@ -19,6 +19,7 @@
 
 # RStudio files
 .Rproj.user/
+ads-website-basic.Rproj
 
 # produced vignettes
 vignettes/*.html
